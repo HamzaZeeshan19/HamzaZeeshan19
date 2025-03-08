@@ -1,5 +1,7 @@
 <body>
-  <Center>Hi there 👋, I'm Hamza Zeeshan</Center> 
+  <div align="center">
+    <h1> Hi there, I'm Hamza Zeeshan👋</h1>
+  </div>
 
 
 
