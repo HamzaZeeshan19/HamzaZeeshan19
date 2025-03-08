@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Hamza Zeeshan 
+Hi there 👋, I'm Hamza Zeeshan 
 
-<!--
+
 **HamzaZeeshan19/HamzaZeeshan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with othe Developers
 - 📫 How to reach me:hamzazeeshan012@gmail.com 
 - 😄 Pronouns: He
--->
+
