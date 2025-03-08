@@ -1,9 +1,7 @@
-Hi there 👋, I'm Hamza Zeeshan 
+<Center>Hi there 👋, I'm Hamza Zeeshan</Center> 
 
 
-**HamzaZeeshan19/HamzaZeeshan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gen-IA and Chatbot
 - 🌱 I’m currently learning Genrative AI
